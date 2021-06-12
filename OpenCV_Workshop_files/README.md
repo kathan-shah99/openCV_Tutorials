@@ -1,7 +1,7 @@
 1. Display_image.py  			    ---------> python.png
 Displaying image in different color formats RGB , Gray , HSV.
 
-2.Thresholding.py     		    ---------> ex2.png
+2. Thresholding.py     		    ---------> ex2.png
 Thresholding operation on given image
 
 3. color_masking_cube.py  		---------> cube.png
